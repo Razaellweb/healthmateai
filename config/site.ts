@@ -1,13 +1,23 @@
 import { SiteConfig } from "@/types";
 
 export const siteConfig: SiteConfig = {
-  name: "Ticketeur",
-  description: "From booking tickets to managing events, Ticketeur is your comprehensive, easy-to-use platform for all event experiences.",
-  keywords: ["software"],
-  url: "https://useticketeur.com",
-  ogImage: "https://useticketeur.com",
+  name: "HealthMate AI",
+  description: "HealthMate AI empowers you to take charge of your health journey with intelligent insights, proactive alerts, and personalized recommendations—anytime, anywhere.",
+  keywords: [
+    "health",
+    "AI",
+    "personalized health",
+    "health insights",
+    "wellness",
+    "fitness",
+    "healthcare",
+    "mobile health",
+    "proactive health management"
+  ],
+  url: "https://healthmateai.com",
+  ogImage: "https://healthmateai.com/og-image.png",
   links: {
-    twitter: "https://x.com/pappychulow",
-    github: "https://github.com/berryboylb",
+    twitter: "https://twitter.com/healthmateai",
+    github: "https://github.com/berryboylb/healthmateai"
   },
 };
